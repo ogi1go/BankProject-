@@ -1,0 +1,47 @@
+[
+  {
+    "Id": "f894559f-5041-4ee6-b8ae-52eae8fd2bd8",
+    "Name": "ilusha",
+    "loans": [],
+    "Cards": [],
+    "PhoneNumber": "\u002B99599311265",
+    "Email": "bukhutijijelava@gmail.com",
+    "Password": "Password1234",
+    "Verified": true,
+    "Status": 0
+  },
+  {
+    "Id": "9eb9cca4-4eec-4147-8d11-b248a8378225",
+    "Name": "ilia",
+    "loans": [
+      {
+        "id": "8a531211-f5c7-4498-83f1-ac142f724379",
+        "amount": 500,
+        "remainingDebt": 518.90,
+        "months": 5,
+        "remainingMonths": 5,
+        "monthlyPayment": 103.78,
+        "annualInterestRate": 15.0,
+        "createdAt": "2026-11-24T13:45:53.706885Z"
+      }
+    ],
+    "Cards": [
+      {
+        "Id": "56cccee7-5f73-4119-9228-05e3c578864d",
+        "number": "1560577989992602",
+        "cvc": "535",
+        "type": 0,
+        "expiry_date": "2031-11-24T00:00:00+04:00",
+        "balance": 431.95,
+        "credit_limit": 0,
+        "debt": 0,
+        "masked_number": "**** **** **** 2602"
+      }
+    ],
+    "PhoneNumber": "\u002B995599311265",
+    "Email": "hotisaj108@dsmspaces.com",
+    "Password": "Password1234",
+    "Verified": true,
+    "Status": 0
+  }
+]

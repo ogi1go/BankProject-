@@ -1,0 +1,15 @@
+C:\Users\ilusha\source\repos\Bankomati\Bankomati\bin\Debug\net10.0\Bankomati.exe
+C:\Users\ilusha\source\repos\Bankomati\Bankomati\bin\Debug\net10.0\Bankomati.deps.json
+C:\Users\ilusha\source\repos\Bankomati\Bankomati\bin\Debug\net10.0\Bankomati.runtimeconfig.json
+C:\Users\ilusha\source\repos\Bankomati\Bankomati\bin\Debug\net10.0\Bankomati.dll
+C:\Users\ilusha\source\repos\Bankomati\Bankomati\bin\Debug\net10.0\Bankomati.pdb
+C:\Users\ilusha\source\repos\Bankomati\Bankomati\obj\Debug\net10.0\Bankomati.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilusha\source\repos\Bankomati\Bankomati\obj\Debug\net10.0\Bankomati.AssemblyInfoInputs.cache
+C:\Users\ilusha\source\repos\Bankomati\Bankomati\obj\Debug\net10.0\Bankomati.AssemblyInfo.cs
+C:\Users\ilusha\source\repos\Bankomati\Bankomati\obj\Debug\net10.0\Bankomati.csproj.CoreCompileInputs.cache
+C:\Users\ilusha\source\repos\Bankomati\Bankomati\obj\Debug\net10.0\Bankomati.dll
+C:\Users\ilusha\source\repos\Bankomati\Bankomati\obj\Debug\net10.0\refint\Bankomati.dll
+C:\Users\ilusha\source\repos\Bankomati\Bankomati\obj\Debug\net10.0\Bankomati.pdb
+C:\Users\ilusha\source\repos\Bankomati\Bankomati\obj\Debug\net10.0\Bankomati.genruntimeconfig.cache
+C:\Users\ilusha\source\repos\Bankomati\Bankomati\obj\Debug\net10.0\ref\Bankomati.dll
+C:\Users\ilusha\source\repos\Bankomati\Bankomati\obj\Debug\net10.0\Bankomati.csproj.Up2Date

@@ -1,0 +1,257 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ilusha\\source\\repos\\Bankomati\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AAFA2D93-A423-9AE3-824E-23035A428CCC}|Bankomati\\Bankomati.csproj|c:\\users\\ilusha\\source\\repos\\bankomati\\bankomati\\utils\\xmlfileutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAFA2D93-A423-9AE3-824E-23035A428CCC}|Bankomati\\Bankomati.csproj|solutionrelative:bankomati\\utils\\xmlfileutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAFA2D93-A423-9AE3-824E-23035A428CCC}|Bankomati\\Bankomati.csproj|c:\\users\\ilusha\\source\\repos\\bankomati\\bankomati\\menus\\adminmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAFA2D93-A423-9AE3-824E-23035A428CCC}|Bankomati\\Bankomati.csproj|solutionrelative:bankomati\\menus\\adminmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAFA2D93-A423-9AE3-824E-23035A428CCC}|Bankomati\\Bankomati.csproj|c:\\users\\ilusha\\source\\repos\\bankomati\\bankomati\\services\\emailverificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAFA2D93-A423-9AE3-824E-23035A428CCC}|Bankomati\\Bankomati.csproj|solutionrelative:bankomati\\services\\emailverificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAFA2D93-A423-9AE3-824E-23035A428CCC}|Bankomati\\Bankomati.csproj|c:\\users\\ilusha\\source\\repos\\bankomati\\bankomati\\interfaces\\ifileutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAFA2D93-A423-9AE3-824E-23035A428CCC}|Bankomati\\Bankomati.csproj|solutionrelative:bankomati\\interfaces\\ifileutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAFA2D93-A423-9AE3-824E-23035A428CCC}|Bankomati\\Bankomati.csproj|c:\\users\\ilusha\\source\\repos\\bankomati\\bankomati\\menus\\loansmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAFA2D93-A423-9AE3-824E-23035A428CCC}|Bankomati\\Bankomati.csproj|solutionrelative:bankomati\\menus\\loansmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAFA2D93-A423-9AE3-824E-23035A428CCC}|Bankomati\\Bankomati.csproj|c:\\users\\ilusha\\source\\repos\\bankomati\\bankomati\\utils\\fileutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAFA2D93-A423-9AE3-824E-23035A428CCC}|Bankomati\\Bankomati.csproj|solutionrelative:bankomati\\utils\\fileutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAFA2D93-A423-9AE3-824E-23035A428CCC}|Bankomati\\Bankomati.csproj|c:\\users\\ilusha\\source\\repos\\bankomati\\bankomati\\services\\sessionservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAFA2D93-A423-9AE3-824E-23035A428CCC}|Bankomati\\Bankomati.csproj|solutionrelative:bankomati\\services\\sessionservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAFA2D93-A423-9AE3-824E-23035A428CCC}|Bankomati\\Bankomati.csproj|c:\\users\\ilusha\\source\\repos\\bankomati\\bankomati\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAFA2D93-A423-9AE3-824E-23035A428CCC}|Bankomati\\Bankomati.csproj|solutionrelative:bankomati\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAFA2D93-A423-9AE3-824E-23035A428CCC}|Bankomati\\Bankomati.csproj|c:\\users\\ilusha\\source\\repos\\bankomati\\bankomati\\models\\bankcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAFA2D93-A423-9AE3-824E-23035A428CCC}|Bankomati\\Bankomati.csproj|solutionrelative:bankomati\\models\\bankcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAFA2D93-A423-9AE3-824E-23035A428CCC}|Bankomati\\Bankomati.csproj|c:\\users\\ilusha\\source\\repos\\bankomati\\bankomati\\models\\sessiondata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAFA2D93-A423-9AE3-824E-23035A428CCC}|Bankomati\\Bankomati.csproj|solutionrelative:bankomati\\models\\sessiondata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAFA2D93-A423-9AE3-824E-23035A428CCC}|Bankomati\\Bankomati.csproj|c:\\users\\ilusha\\source\\repos\\bankomati\\bankomati\\menus\\cardsmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAFA2D93-A423-9AE3-824E-23035A428CCC}|Bankomati\\Bankomati.csproj|solutionrelative:bankomati\\menus\\cardsmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAFA2D93-A423-9AE3-824E-23035A428CCC}|Bankomati\\Bankomati.csproj|c:\\users\\ilusha\\source\\repos\\bankomati\\bankomati\\models\\loan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAFA2D93-A423-9AE3-824E-23035A428CCC}|Bankomati\\Bankomati.csproj|solutionrelative:bankomati\\models\\loan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAFA2D93-A423-9AE3-824E-23035A428CCC}|Bankomati\\Bankomati.csproj|c:\\users\\ilusha\\source\\repos\\bankomati\\bankomati\\utils\\jsonfileutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAFA2D93-A423-9AE3-824E-23035A428CCC}|Bankomati\\Bankomati.csproj|solutionrelative:bankomati\\utils\\jsonfileutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAFA2D93-A423-9AE3-824E-23035A428CCC}|Bankomati\\Bankomati.csproj|c:\\users\\ilusha\\source\\repos\\bankomati\\bankomati\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAFA2D93-A423-9AE3-824E-23035A428CCC}|Bankomati\\Bankomati.csproj|solutionrelative:bankomati\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminMenu.cs",
+              "DocumentMoniker": "C:\\Users\\ilusha\\source\\repos\\Bankomati\\Bankomati\\Menus\\AdminMenu.cs",
+              "RelativeDocumentMoniker": "Bankomati\\Menus\\AdminMenu.cs",
+              "ToolTip": "C:\\Users\\ilusha\\source\\repos\\Bankomati\\Bankomati\\Menus\\AdminMenu.cs",
+              "RelativeToolTip": "Bankomati\\Menus\\AdminMenu.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAIwC0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-22T09:44:30.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IFileUtils.cs",
+              "DocumentMoniker": "C:\\Users\\ilusha\\source\\repos\\Bankomati\\Bankomati\\Interfaces\\IFileUtils.cs",
+              "RelativeDocumentMoniker": "Bankomati\\Interfaces\\IFileUtils.cs",
+              "ToolTip": "C:\\Users\\ilusha\\source\\repos\\Bankomati\\Bankomati\\Interfaces\\IFileUtils.cs",
+              "RelativeToolTip": "Bankomati\\Interfaces\\IFileUtils.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-22T09:39:24.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmailVerificationService.cs",
+              "DocumentMoniker": "C:\\Users\\ilusha\\source\\repos\\Bankomati\\Bankomati\\Services\\EmailVerificationService.cs",
+              "RelativeDocumentMoniker": "Bankomati\\Services\\EmailVerificationService.cs",
+              "ToolTip": "C:\\Users\\ilusha\\source\\repos\\Bankomati\\Bankomati\\Services\\EmailVerificationService.cs",
+              "RelativeToolTip": "Bankomati\\Services\\EmailVerificationService.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAADgv00AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T17:48:49.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoansMenu.cs",
+              "DocumentMoniker": "C:\\Users\\ilusha\\source\\repos\\Bankomati\\Bankomati\\Menus\\LoansMenu.cs",
+              "RelativeDocumentMoniker": "Bankomati\\Menus\\LoansMenu.cs",
+              "ToolTip": "C:\\Users\\ilusha\\source\\repos\\Bankomati\\Bankomati\\Menus\\LoansMenu.cs",
+              "RelativeToolTip": "Bankomati\\Menus\\LoansMenu.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAUwD0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T17:30:25.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Loan.cs",
+              "DocumentMoniker": "C:\\Users\\ilusha\\source\\repos\\Bankomati\\Bankomati\\Models\\Loan.cs",
+              "RelativeDocumentMoniker": "Bankomati\\Models\\Loan.cs",
+              "ToolTip": "C:\\Users\\ilusha\\source\\repos\\Bankomati\\Bankomati\\Models\\Loan.cs",
+              "RelativeToolTip": "Bankomati\\Models\\Loan.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB8AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T17:29:17.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "JsonFileUtils.cs",
+              "DocumentMoniker": "C:\\Users\\ilusha\\source\\repos\\Bankomati\\Bankomati\\Utils\\JsonFileUtils.cs",
+              "RelativeDocumentMoniker": "Bankomati\\Utils\\JsonFileUtils.cs",
+              "ToolTip": "C:\\Users\\ilusha\\source\\repos\\Bankomati\\Bankomati\\Utils\\JsonFileUtils.cs",
+              "RelativeToolTip": "Bankomati\\Utils\\JsonFileUtils.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-15T11:30:34.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CardsMenu.cs",
+              "DocumentMoniker": "C:\\Users\\ilusha\\source\\repos\\Bankomati\\Bankomati\\Menus\\CardsMenu.cs",
+              "RelativeDocumentMoniker": "Bankomati\\Menus\\CardsMenu.cs",
+              "ToolTip": "C:\\Users\\ilusha\\source\\repos\\Bankomati\\Bankomati\\Menus\\CardsMenu.cs",
+              "RelativeToolTip": "Bankomati\\Menus\\CardsMenu.cs",
+              "ViewState": "AgIAAN8AAAAAAAAAAAAkwEABAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T14:35:20.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BankCard.cs",
+              "DocumentMoniker": "C:\\Users\\ilusha\\source\\repos\\Bankomati\\Bankomati\\Models\\BankCard.cs",
+              "RelativeDocumentMoniker": "Bankomati\\Models\\BankCard.cs",
+              "ToolTip": "C:\\Users\\ilusha\\source\\repos\\Bankomati\\Bankomati\\Models\\BankCard.cs",
+              "RelativeToolTip": "Bankomati\\Models\\BankCard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAiwCIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T14:30:07.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FileUtils.cs",
+              "DocumentMoniker": "C:\\Users\\ilusha\\source\\repos\\Bankomati\\Bankomati\\Utils\\FileUtils.cs",
+              "RelativeDocumentMoniker": "Bankomati\\Utils\\FileUtils.cs",
+              "ToolTip": "C:\\Users\\ilusha\\source\\repos\\Bankomati\\Bankomati\\Utils\\FileUtils.cs",
+              "RelativeToolTip": "Bankomati\\Utils\\FileUtils.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAawC4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T14:04:11.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SessionServices.cs",
+              "DocumentMoniker": "C:\\Users\\ilusha\\source\\repos\\Bankomati\\Bankomati\\Services\\SessionServices.cs",
+              "RelativeDocumentMoniker": "Bankomati\\Services\\SessionServices.cs",
+              "ToolTip": "C:\\Users\\ilusha\\source\\repos\\Bankomati\\Bankomati\\Services\\SessionServices.cs",
+              "RelativeToolTip": "Bankomati\\Services\\SessionServices.cs",
+              "ViewState": "AgIAAHABAAAAAAAAAAAgwIEBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T18:10:51.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\ilusha\\source\\repos\\Bankomati\\Bankomati\\Models\\Account.cs",
+              "RelativeDocumentMoniker": "Bankomati\\Models\\Account.cs",
+              "ToolTip": "C:\\Users\\ilusha\\source\\repos\\Bankomati\\Bankomati\\Models\\Account.cs",
+              "RelativeToolTip": "Bankomati\\Models\\Account.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAiwIIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T18:06:43.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ilusha\\source\\repos\\Bankomati\\Bankomati\\Program.cs",
+              "RelativeDocumentMoniker": "Bankomati\\Program.cs",
+              "ToolTip": "C:\\Users\\ilusha\\source\\repos\\Bankomati\\Bankomati\\Program.cs",
+              "RelativeToolTip": "Bankomati\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T18:04:33.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "XmlFileUtils.cs",
+              "DocumentMoniker": "C:\\Users\\ilusha\\source\\repos\\Bankomati\\Bankomati\\Utils\\XmlFileUtils.cs",
+              "RelativeDocumentMoniker": "Bankomati\\Utils\\XmlFileUtils.cs",
+              "ToolTip": "C:\\Users\\ilusha\\source\\repos\\Bankomati\\Bankomati\\Utils\\XmlFileUtils.cs",
+              "RelativeToolTip": "Bankomati\\Utils\\XmlFileUtils.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA1wBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-15T11:32:12.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SessionData.cs",
+              "DocumentMoniker": "C:\\Users\\ilusha\\source\\repos\\Bankomati\\Bankomati\\Models\\SessionData.cs",
+              "RelativeDocumentMoniker": "Bankomati\\Models\\SessionData.cs",
+              "ToolTip": "C:\\Users\\ilusha\\source\\repos\\Bankomati\\Bankomati\\Models\\SessionData.cs",
+              "RelativeToolTip": "Bankomati\\Models\\SessionData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T14:22:18.558Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
